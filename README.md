@@ -1,3 +1,6 @@
+Twitter's GPL Commitment
+========================
+
 *Before filing or continuing to prosecute any legal proceeding or claim
 (other than a Defensive Action) arising from termination of a Covered
 License, Twitter commits to extend to the person or entity ("you")
