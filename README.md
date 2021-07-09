@@ -25,7 +25,7 @@ notice.*
 
 *Twitter intends this Commitment to be irrevocable, and binding and
 enforceable against Twitter and assignees of or successors to
-Twitter\]'s copyrights.*
+Twitter's copyrights.*
 
 *Twitter may modify this Commitment by publishing a new edition on this
 page or a successor location.*
